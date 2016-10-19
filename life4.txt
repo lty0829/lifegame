@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dfddfddfff
+=======
+dfddfsdsdsdf
+>>>>>>> week1
